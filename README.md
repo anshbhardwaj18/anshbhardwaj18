@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Ansh Bhardwaj
 
-💻 Software Developer | 3+ Months Experience
-🚀 Java | React | FastAPI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+4%2B+Months+Experience;Java+%7C+React+%7C+FastAPI" />
+</p>
 
 ---
 
