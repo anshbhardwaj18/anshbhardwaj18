@@ -48,7 +48,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-master-anshbhardwaj18s-projects.vercel.app/api?username=anshbhardwaj18&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=anshbhardwaj18&show_icons=true&theme=tokyonight)
 
 ---
 
