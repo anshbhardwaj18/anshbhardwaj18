@@ -53,8 +53,6 @@
 ---
 
 ## 🔥 Projects
-
-* 🚀 Add your best projects here
 * 💻 https://denama.com/
 * 📊 https://dheekhai.com/
 
