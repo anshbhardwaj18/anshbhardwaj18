@@ -73,7 +73,7 @@
 
 ## 📊 GitHub Stats
 
-![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshbhardwaj18&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshbhardwaj18&show_icons=true&theme=tokyonight)
 
 ---
 
