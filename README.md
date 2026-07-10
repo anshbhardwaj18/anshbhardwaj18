@@ -41,6 +41,23 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
 
+### 🤖 AI / GenAI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-7B61FF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6C63FF?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-0099CC?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector_DB-5C2D91?style=for-the-badge)
+![Document Loaders](https://img.shields.io/badge/Document_Loaders-00897B?style=for-the-badge)
+![Text Splitters](https://img.shields.io/badge/Text_Splitters-FF9800?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-673AB7?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ### 🗄️ Database  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
