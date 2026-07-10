@@ -61,6 +61,8 @@
 ### 🗄️ Database  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-00897B?style=for-the-badge)
 
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
