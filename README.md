@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Ansh Bhardwaj
 
-<!-- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+3%2B+Months+Experience;Java+%7C+React+%7C+FastAPI" />
-</p>  -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=700&lines=Software+Developer;ReactJS+%7C+Python+%7C+FastAPI" />
 </p>
@@ -34,7 +31,15 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🔧 Backend  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-4CAF50?style=for-the-badge)
+![Authorization](https://img.shields.io/badge/Authorization-FF9800?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
 
 ### 🗄️ Database  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,8 +47,11 @@
 
 ### ⚙️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats
