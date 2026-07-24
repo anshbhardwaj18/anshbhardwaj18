@@ -85,7 +85,7 @@
 
 ![Top Languages](https://github-readme-stats-gules-sigma-okye1vyklx.vercel.app/api/top-langs/?username=anshbhardwaj18&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=anshbhardwaj18&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=anshbhardwaj18&theme=github-dark-blue)
 ---
 
 ## 🔥 Projects
