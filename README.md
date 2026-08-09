@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Ansh Bhardwaj
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FFAA&center=true&vCenter=true&width=700&lines=Software+Developer;ReactJS+%7C+Python+%7C+FastAPI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=900&lines=AI+%26+Full+Stack+Developer;Building+Intelligent+%26+Scalable+Applications;Python+%7C+FastAPI+%7C+React+%7C+Next.js;Generative+AI+%7C+LangChain+%7C+LLMs;Turning+Ideas+Into+Production-Ready+Software" />
 </p>
+
 
 ---
 
